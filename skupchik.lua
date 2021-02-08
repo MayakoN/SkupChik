@@ -1,7 +1,7 @@
 script_name('SkupChik')
 script_authors('Mayako')
 script_description('Script dlya Baryg na Arizone RPG')
-script_version(0.1)
+script_version(0.2)
 
 require("lib.moonloader")
 require 'sampfuncs'
